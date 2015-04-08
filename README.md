@@ -28,6 +28,8 @@ nano /etc/apache2/sites-enabled/000-default.conf
 cd /var/www/html
 rm -rf *
 git clone https://github.com/andrewpuch/wordpress_4_1_1.git .
+chmod -R 744 .
+chown -R www-data:www-data .
 
 service apache2 restart
 ```
