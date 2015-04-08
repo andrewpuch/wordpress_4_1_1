@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Admin CSS*/
+
+#team_metabox ul.team_bg_img_list{}
+
+#team_metabox ul.team_bg_img_list li {
+  display: inline-block;
+  margin: 5px;
+}
+#team_metabox ul.team_bg_img_list li.bg-selected {}
+
+#team_metabox ul.team_bg_img_list li img{border: 2px solid #ffffff;}
+
+#team_metabox ul.team_bg_img_list li.bg-selected img{
+  border: 2px solid #ff5a11;
+}
+
+
+
+#team_metabox div.team_taxonomy_category{}
+
+
+#team_metabox ul.content_source_area {
+  margin-left: 15px;
+}
+
+#team_metabox ul.content_source_area li{}
+
+
+#team_metabox ul.content_source_area .content-source-box {
+  display: none;
+}
+
+#team_metabox ul.content_source_area li div.active {
+  background: none repeat scroll 0 0 #e6e6e6;
+  border-left: 3px solid #11b063;
+  display: block;
+  margin: 10px 10px 0 20px;
+  padding: 10px 0 10px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*CSS front page*/
+
+.team-container {
+  margin: 50px 0;
+  overflow: hidden;
+  padding: 40px 0;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+

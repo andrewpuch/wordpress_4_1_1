@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.team-rounded {
+  padding: 0;
+  margin: 0;
+}
+
+.team-rounded .team-item {
+  display: inline-block;
+  margin: 20px 10px;
+  padding: 0 0 20px;
+  vertical-align: top;
+  width: 200px;
+}
+.team-rounded .team-post{}
+
+
+.team-rounded .team-thumb {
+  overflow: hidden;
+
+}
+
+
+.team-rounded .team-thumb img {
+  border-radius: 50%;
+  box-shadow: none;
+}
+
+
+
+.team-rounded .team-title {
+  color: rgb(102, 102, 102);
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.team-rounded .team-position {
+  color: rgb(102, 102, 102);
+  font-size: 12px;
+  line-height: 18px;
+  padding: 0 10px 10px;
+}
+
+.team-rounded .team-social {
+  padding: 10px;
+}
+
+.team-rounded .team-social span {
+  display: inline-block;
+  height: 20px;
+  margin: 0 2px;
+  width: 20px;
+}
+
+.team-rounded .team-social a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+.team-rounded .team-social .website{
+	background: url("images/website.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+.team-rounded .team-social .email{
+	background: url("images/email.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}	
+	
+.team-rounded .team-social .skype{
+	background: url("images/skype.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+
+
+
+
+
+
+
+.team-rounded .team-social .facebook{
+	background: url("images/facebook.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.team-rounded .team-social .twitter{
+	background: url("images/twitter.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.team-rounded .team-social .googleplus{
+	background: url("images/googleplus.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.team-rounded .team-social .pinterest{
+	background: url("images/pinterest.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+		
+
+.team-rounded .team-content {
+  color: rgb(102, 102, 102);
+  font-size: 12px;
+  overflow: hidden;
+  padding: 0 10px;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

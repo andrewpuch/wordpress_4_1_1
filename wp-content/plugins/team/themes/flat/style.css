@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.team-flat {
+  padding: 0;
+  margin: 0;
+  box-shadow:0 0 0 0 #f00;
+}
+
+.team-flat .team-item {
+  display: inline-block;
+  margin: 20px 10px;
+  padding: 0 0 20px;
+  vertical-align: top;
+  width: 200px;
+}
+.team-flat .team-post{}
+
+
+.team-flat .team-thumb {
+  height: 150px;
+  overflow: hidden;
+}
+
+
+
+.team-flat .team-thumb img {
+  border-radius: 0;
+  box-shadow: none;
+  height: auto;
+  width: 100%;
+}
+
+
+
+.team-flat .team-title {
+  color: rgb(102, 102, 102);
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.team-flat .team-position {
+  color: rgb(102, 102, 102);
+  font-size: 12px;
+  line-height: 18px;
+  padding: 0 10px 10px;
+}
+
+.team-flat .team-social {
+  padding: 10px;
+}
+
+.team-flat .team-social span {
+  display: inline-block;
+  height: 20px;
+  margin: 0 2px;
+  width: 20px;
+}
+
+.team-flat .team-social a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+.team-flat .team-social .website{
+	background: url("images/website.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+.team-flat .team-social .email{
+	background: url("images/email.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}	
+	
+.team-flat .team-social .skype{
+	background: url("images/skype.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+
+
+
+.team-flat .team-social .facebook{
+	background: url("images/facebook.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.team-flat .team-social .twitter{
+	background: url("images/twitter.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+.team-flat .team-social .googleplus{
+	background: url("images/googleplus.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+.team-flat .team-social .pinterest{
+	background: url("images/pinterest.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+		
+
+.team-flat .team-content {
+  color: rgb(102, 102, 102);
+  font-size: 12px;
+  overflow: hidden;
+  padding: 0 10px;
+  text-align: left;
+}
+
+
+

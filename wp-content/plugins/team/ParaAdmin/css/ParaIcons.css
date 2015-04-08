@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Admin CSS*/
+
+.para-icons {
+padding-left: 25px;
+
+}
+
+.para-icons.globe {
+  background: url("icons/globe.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+.para-icons.os-windows {
+  background: url("icons/os-windows.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+
+.para-icons.device-monitor {
+  background: url("icons/device-monitor.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+.para-icons.browser-firefox {
+  background: url("icons/browser-firefox.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+
+.para-icons.keywords {
+  background: url("icons/keywords.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+.para-icons.map-pin {
+  background: url("icons/map-pin.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+
+
+.para-icons.share-hub {
+  background: url("icons/share-hub.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+.para-icons.page {
+  background: url("icons/page.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+.para-icons.user-group {
+  background: url("icons/user-group.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+.para-icons.user-crowd {
+  background: url("icons/user-crowd.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
