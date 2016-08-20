@@ -1,0 +1,3664 @@
+# Copyright (C) 2016 Transvelo
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Electro 1.1.10\n"
+"Report-Msgid-Bugs-To: http://transvelo.freshdesk.com/\n"
+"POT-Creation-Date: 2016-08-02 14:31:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Electro POT <support@transvelo.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:15
+msgid "404!"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"Nothing was found at this location. Try searching, or check out the links "
+"below."
+msgstr ""
+
+#: 404.php:35
+msgid "Product Categories"
+msgstr ""
+
+#: 404.php:40
+msgid "Popular Products"
+msgstr ""
+
+#: comments.php:42
+msgid "Trackbacks and Pingbacks"
+msgstr ""
+
+#: comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: dokan/store-reviews.php:35
+msgid "Seller Review"
+msgstr ""
+
+#: dokan/store-reviews.php:40
+msgid "No Results Found"
+msgstr ""
+
+#: dokan/store-reviews.php:59
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: dokan/store-reviews.php:60 inc/woocommerce/template-tags.php:806
+msgid "out of 5"
+msgstr ""
+
+#: dokan/store-toc.php:27
+msgid "Terms And Conditions"
+msgstr ""
+
+#: dokan/store.php:46
+msgid "No products were found of this seller!"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Electro"
+msgstr ""
+
+#: inc/admin/class-electro-admin-meta-boxes.php:113
+msgid "Electro Page Options"
+msgstr ""
+
+#: inc/admin/class-electro-admin-meta-boxes.php:130
+msgid "Home v1 Options"
+msgstr ""
+
+#: inc/admin/class-electro-admin-meta-boxes.php:134
+msgid "Home v2 Options"
+msgstr ""
+
+#: inc/admin/class-electro-admin-meta-boxes.php:138
+msgid "Home v3 Options"
+msgstr ""
+
+#: inc/admin/electro-admin-functions.php:50
+msgid "Electro Custom Primary Color CSS"
+msgstr ""
+
+#: inc/admin/electro-admin-functions.php:51
+msgid "The generated custom primary color CSS is given below"
+msgstr ""
+
+#: inc/admin/electro-admin-functions.php:53
+msgid "Instructions"
+msgstr ""
+
+#: inc/admin/electro-admin-functions.php:55
+msgid ""
+"Create a file named custom-color.css in your child theme like "
+"wp-content/themes/electro-child/custom-color.css. Latest versions of "
+"electro-child comes with an empty custom-color.css so you don't have to "
+"create one"
+msgstr ""
+
+#: inc/admin/electro-admin-functions.php:56
+msgid ""
+"If you do not use a child theme, please use one otherwise all your custom "
+"changes will be lost during update"
+msgstr ""
+
+#: inc/admin/electro-admin-functions.php:57
+msgid "Copy the CSS above and paste in the custom-color.css file created in step 1"
+msgstr ""
+
+#: inc/admin/electro-admin-functions.php:58
+msgid "Thats it. Your custom-color.css will be loaded automatically."
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:264
+#: inc/widgets/class-electro-products-carousel-tabs.php:102
+#: inc/widgets/class-electro-products-carousel-widget.php:173
+#: inc/widgets/class-electro-products-tabs.php:102
+msgid "Recent Products"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:265
+#: inc/widgets/class-electro-products-2-1-2-widget.php:154
+#: inc/widgets/class-electro-products-6-1-widget.php:154
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:219
+#: inc/widgets/class-electro-products-carousel-tabs.php:99
+#: inc/widgets/class-electro-products-carousel-widget.php:170
+#: inc/widgets/class-electro-products-tabs.php:99
+#: inc/woocommerce/functions.php:407 inc/woocommerce/template-tags.php:1055
+msgid "Featured Products"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:266
+msgid "Sale Products"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:267
+#: inc/widgets/class-electro-products-carousel-tabs.php:103
+#: inc/widgets/class-electro-products-carousel-widget.php:174
+#: inc/widgets/class-electro-products-tabs.php:103
+msgid "Best Selling Products"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:268
+#: inc/widgets/class-electro-products-carousel-tabs.php:101
+#: inc/widgets/class-electro-products-carousel-widget.php:172
+#: inc/widgets/class-electro-products-tabs.php:101
+#: inc/woocommerce/functions.php:415
+msgid "Top Rated Products"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:269
+#: inc/widgets/class-electro-products-carousel-widget.php:176
+msgid "Product Category"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:270
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:451
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:494
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:569
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:404
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:480
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:504
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:548
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:588
+msgid "Products"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:279
+msgid "Product Category Slug"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:288
+msgid "Show Products by:"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:290
+msgid "IDs"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:291
+msgid "SKUs"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:301
+msgid "Product IDs or SKUs"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:302
+msgid "Enter IDs or SKUs separated by comma"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:343
+#: inc/woocommerce/class-electro-brands.php:52
+#: inc/woocommerce/class-electro-brands.php:130
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:344
+msgid "Remove this image"
+msgstr ""
+
+#: inc/admin/electro-meta-box-functions.php:358
+msgid "No Animation"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:48
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:48
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:48
+#: inc/redux-framework/options/general-options.php:8
+#: inc/redux-framework/options/shop-options.php:12
+#: inc/redux-framework/options/style-options.php:16
+msgid "General"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:53
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:100
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:53
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:100
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:53
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:116
+msgid "Slider"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:58
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:101
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:148
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:58
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:101
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:148
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:63
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:118
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:279
+msgid "Ads Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:63
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:102
+msgid "Deal and Tabs Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:68
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:103
+msgid "2-1-2 Products Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:73
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:104
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:73
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:104
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:78
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:121
+msgid "Product Cards Carousel"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:78
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:105
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:78
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:105
+msgid "Banner"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:83
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:106
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:83
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:106
+#: inc/structure/homepage-v3.php:399
+msgid "Products Carousel"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:112
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:112
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:129
+#: inc/widgets/class-electro-ads-block-widget.php:130
+#: inc/widgets/class-electro-features-block-widget.php:114
+msgid "Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:113
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:113
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:130
+msgid "Animation"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:114
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:114
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:131
+msgid "Priority"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:115
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:115
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:132
+msgid "Enabled ?"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:137
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:137
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:154
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:138
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:138
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:155
+msgid "Enter the shorcode for your slider here"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:155
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:197
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:239
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:155
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:197
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:286
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:328
+msgid "Ad Text"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:157
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:157
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:288
+#: inc/structure/homepage-v1.php:18 inc/structure/homepage-v1.php:205
+#: inc/structure/homepage-v3.php:285
+msgid "Catch Big <strong>Deals</strong> on the Cameras"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:162
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:204
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:246
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:162
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:204
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:293
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:335
+msgid "Action Text"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:164
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:248
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:164
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:295
+#: inc/structure/homepage-v1.php:19 inc/structure/homepage-v1.php:33
+#: inc/structure/homepage-v1.php:206 inc/structure/homepage-v1.php:220
+#: inc/structure/homepage-v2.php:19 inc/structure/homepage-v2.php:184
+#: inc/structure/homepage-v3.php:46 inc/structure/homepage-v3.php:286
+msgid "Shop now"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:169
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:211
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:253
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:169
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:211
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:300
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:342
+msgid "Action Link"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:176
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:218
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:260
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:176
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:218
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:307
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:349
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:471
+msgid "Ad Image"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:183
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:225
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:267
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:183
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:225
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:314
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:356
+msgid "Extra Class"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:190
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:190
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:321
+msgid "Ads Block 2"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:199
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:199
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:330
+#: inc/structure/homepage-v1.php:25 inc/structure/homepage-v1.php:212
+#: inc/structure/homepage-v2.php:25 inc/structure/homepage-v2.php:190
+#: inc/structure/homepage-v3.php:52 inc/structure/homepage-v3.php:292
+msgid "Tablets, Smartphones <strong>and more</strong>"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:206
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:206
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:337
+#: inc/structure/homepage-v1.php:213 inc/structure/homepage-v3.php:293
+msgid ""
+"<span class=\"upto\"><span class=\"prefix\">Upto</span><span "
+"class=\"value\">70</span><span class=\"suffix\">%</span>"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:232
+msgid "Ads Block 3"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:241
+#: inc/structure/homepage-v1.php:32 inc/structure/homepage-v1.php:219
+msgid "Shop the <strong>Hottest</strong> Products"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:277
+msgid "Deals Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:284
+msgid "Enable Deal Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:291
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:330
+msgid "Deal Block Title"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:292
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:294
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:331
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:333
+#: inc/structure/homepage-v1.php:45 inc/structure/homepage-v1.php:294
+msgid "Special Offer"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:299
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:346
+msgid "Product Choice"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:301
+msgid "Random On Sale Product"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:302
+msgid "Most Recent On Sale Product"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:303
+msgid "Specify by ID"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:312
+msgid "Deal Product ID"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:320
+msgid "Savings in"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:322
+#: inc/widgets/class-electro-onsale-product.php:103
+#: inc/widgets/class-electro-onsale-products-carousel.php:148
+msgid "Amount"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:323
+#: inc/widgets/class-electro-onsale-product.php:104
+#: inc/widgets/class-electro-onsale-products-carousel.php:149
+msgid "Percentage"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:331
+msgid "Tabs Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:337
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:239
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:338
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:370
+msgid "Products Limit"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:338
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:240
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:371
+msgid "Enter the number of products to show"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:347
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:487
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:562
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:249
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:397
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:473
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:380
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:497
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:541
+msgid "Columns"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:365
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:267
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:400
+msgid "Tab #1 Title"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:366
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:368
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:268
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:270
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:401
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:403
+#: inc/structure/homepage-v1.php:55 inc/structure/homepage-v1.php:266
+#: inc/structure/homepage-v2.php:40 inc/structure/homepage-v2.php:238
+#: inc/structure/homepage-v3.php:67 inc/structure/homepage-v3.php:340
+#: inc/structure/homepage.php:163 inc/structure/homepage.php:638
+msgid "Featured"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:373
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:275
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:408
+msgid "Tab #1 Content"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:384
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:287
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:420
+msgid "Tab #2 Title"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:385
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:387
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:288
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:290
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:421
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:423
+#: inc/structure/homepage-v1.php:64 inc/structure/homepage-v1.php:272
+#: inc/structure/homepage-v2.php:49 inc/structure/homepage-v2.php:244
+#: inc/structure/homepage-v3.php:76 inc/structure/homepage-v3.php:346
+#: inc/structure/homepage.php:168 inc/structure/homepage.php:643
+msgid "On Sale"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:392
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:295
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:428
+msgid "Tab #2 Content"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:403
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:307
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:440
+msgid "Tab #3 Title"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:404
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:406
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:308
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:310
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:441
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:443
+#: inc/structure/homepage-v1.php:73 inc/structure/homepage-v1.php:278
+#: inc/structure/homepage-v2.php:58 inc/structure/homepage-v2.php:250
+#: inc/structure/homepage-v3.php:85 inc/structure/homepage-v3.php:352
+#: inc/structure/homepage.php:173 inc/structure/homepage.php:648
+msgid "Top Rated"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:410
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:314
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:447
+msgid "Tab #3 Content"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:424
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:465
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:549
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:375
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:460
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:484
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:519
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:563
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:603
+msgid "Section Title"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:426
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:427
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:428
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:565
+#: inc/structure/homepage-v1.php:88
+msgid "Best Deals"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:433
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:505
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:415
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:570
+msgid "Categories Limit"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:442
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:514
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:424
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:579
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:610
+msgid "Category Slug"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:446
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:518
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:428
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:583
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:613
+msgid "Enter category slugs separated by comma"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:467
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:468
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:469
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:377
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:378
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:379
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:521
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:522
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:523
+#: inc/structure/homepage-v1.php:373 inc/structure/homepage-v2.php:343
+#: inc/woocommerce/template-tags.php:134
+msgid "Best Sellers"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:473
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:383
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:527
+msgid "Product Limit"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:476
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:490
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:386
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:400
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:530
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:544
+msgid "Enter number of products to show"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:480
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:390
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:534
+msgid "Rows"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:483
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:393
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:537
+msgid "Enter number of rows to display"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:529
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:440
+msgid "Banner Image"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:536
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:447
+msgid "Link"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:551
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:462
+#: inc/structure/homepage-v1.php:125
+msgid "Recently Added"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v1.php:556
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:467
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:491
+msgid "Limit"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:63
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:102
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:68
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:119
+msgid "Tabs Carousel"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:68
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:103
+msgid "Deals Carousel"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:348
+msgid "Random On Sale Products"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:349
+msgid "Recent On Sale Products"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:350
+msgid "Specify by IDs"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:359
+msgid "Deal Product IDs"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v2.php:363
+msgid "Enter product IDs separated by comma"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:58
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:117
+msgid "Features List"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:73
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:120
+msgid "Products Carousel with Image"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:83
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:122
+msgid "6-1 Products Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:88
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:123
+msgid "Categories List Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:106
+#: inc/redux-framework/options/header-options.php:26
+msgid "Header Style"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:108
+#: inc/redux-framework/options/blog-options.php:17
+#: inc/redux-framework/options/shop-options.php:159
+#: inc/woocommerce/class-electro-wc-helper.php:185
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:108
+msgid "Full Color Background"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:165
+msgid "Feature 1"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:171
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:193
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:215
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:237
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:259
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:172
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:194
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:216
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:238
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:260
+msgid "Enter the icon for your features here"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:179
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:201
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:223
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:245
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:267
+msgid "Text"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:180
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:202
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:224
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:246
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:268
+msgid "Enter the text for your features here"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:182
+#: inc/structure/homepage-v3.php:21 inc/structure/homepage-v3.php:230
+msgid "<strong>Free Delivery</strong> from $50"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:187
+msgid "Feature 2"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:204
+#: inc/structure/homepage-v3.php:25 inc/structure/homepage-v3.php:234
+msgid "<strong>99% Positive</strong> Feedbacks"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:209
+msgid "Feature 3"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:226
+#: inc/structure/homepage-v3.php:29 inc/structure/homepage-v3.php:238
+msgid "<strong>365 days</strong> for free return"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:231
+msgid "Feature 4"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:248
+#: inc/structure/homepage-v3.php:33 inc/structure/homepage-v3.php:242
+msgid "<strong>Payment</strong> Secure System"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:253
+msgid "Feature 5"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:270
+#: inc/structure/homepage-v3.php:37 inc/structure/homepage-v3.php:246
+msgid "<strong>Only Best</strong> Brands"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:458
+msgid "Image Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:464
+msgid "Background Image"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:478
+msgid "Products Carousel Block"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:486
+#: inc/structure/homepage-v3.php:104 inc/structure/homepage-v3.php:414
+msgid "Hoodies"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-home-v3.php:605
+#: inc/structure/homepage-v3.php:150 inc/structure/homepage-v3.php:573
+msgid "Top Categories this Month"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:21
+msgid "Site Header Style"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:22
+msgid "Choose a site header style for this page"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:26
+msgid "Default Header"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:27
+#: inc/redux-framework/options/header-options.php:31
+msgid "Header v1"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:28
+#: inc/redux-framework/options/header-options.php:32
+msgid "Header v2"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:29
+#: inc/redux-framework/options/header-options.php:33
+msgid "Header v3"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:30
+#: inc/redux-framework/options/header-options.php:34
+msgid "Header v4"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:35
+msgid "Hide Page Header"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:36
+msgid ""
+"Check this if you want to hide page header that contains page title and "
+"subtitle."
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:42
+msgid "Page Title"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:43
+msgid ""
+"Add a custom page title or leave empty if you want the page title to be the "
+"same as the page name"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:49
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:50
+msgid "Add a subtitle to the page"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:56
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: inc/admin/meta-boxes/class-electro-meta-box-page.php:57
+msgid "Check this if you want to hide breadcrumb."
+msgstr ""
+
+#: inc/classes/class-electro-breadcrumb.php:99
+msgid "Error 404"
+msgstr ""
+
+#: inc/classes/class-electro-breadcrumb.php:195
+msgid "Posts tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/classes/class-electro-breadcrumb.php:236
+msgid "Author: %s"
+msgstr ""
+
+#: inc/classes/class-electro-breadcrumb.php:261
+msgid "Search results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/classes/class-electro-breadcrumb.php:270
+msgid "Page %d"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334 inc/functions/setup.php:438
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:335 inc/functions/setup.php:439
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:337 inc/functions/setup.php:440
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340 inc/functions/setup.php:441
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:377 inc/functions/setup.php:450
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392 inc/functions/setup.php:452
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+#: inc/classes/class-tgm-plugin-activation.php:912
+#: inc/classes/class-tgm-plugin-activation.php:2618
+#: inc/classes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3244 inc/functions/setup.php:453
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+#: inc/classes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1019
+#: inc/classes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2067
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2477
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2688
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2693
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2699
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3583
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3588
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3594
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3594
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3597
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-wp-bootstrap-navwalker.php:203
+msgid "Add a menu"
+msgstr ""
+
+#: inc/dokan/functions.php:51
+msgid "Store Category"
+msgstr ""
+
+#: inc/dokan/functions.php:54
+msgid "Store Location"
+msgstr ""
+
+#: inc/dokan/functions.php:58
+msgid "Contact Seller"
+msgstr ""
+
+#: inc/dokan/functions.php:101
+msgid "Store Sidebar"
+msgstr ""
+
+#: inc/functions/extras.php:192
+#: inc/redux-framework/functions/footer-functions.php:273
+#: inc/redux-framework/options/social-options.php:13
+msgid "Facebook"
+msgstr ""
+
+#: inc/functions/extras.php:198
+#: inc/redux-framework/functions/footer-functions.php:278
+#: inc/redux-framework/options/social-options.php:20
+msgid "Twitter"
+msgstr ""
+
+#: inc/functions/extras.php:204
+#: inc/redux-framework/functions/footer-functions.php:283
+#: inc/redux-framework/options/social-options.php:34
+msgid "Pinterest"
+msgstr ""
+
+#: inc/functions/extras.php:210
+#: inc/redux-framework/functions/footer-functions.php:288
+#: inc/redux-framework/options/social-options.php:41
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/functions/extras.php:216
+#: inc/redux-framework/functions/footer-functions.php:293
+#: inc/redux-framework/options/social-options.php:27
+msgid "Google+"
+msgstr ""
+
+#: inc/functions/extras.php:222
+#: inc/redux-framework/functions/footer-functions.php:298
+#: inc/redux-framework/options/social-options.php:48
+msgid "Tumblr"
+msgstr ""
+
+#: inc/functions/extras.php:227
+#: inc/redux-framework/functions/footer-functions.php:303
+#: inc/redux-framework/options/social-options.php:55
+msgid "Instagram"
+msgstr ""
+
+#: inc/functions/extras.php:232
+#: inc/redux-framework/functions/footer-functions.php:308
+#: inc/redux-framework/options/social-options.php:62
+msgid "Youtube"
+msgstr ""
+
+#: inc/functions/extras.php:237
+#: inc/redux-framework/functions/footer-functions.php:313
+#: inc/redux-framework/options/social-options.php:69
+msgid "Vimeo"
+msgstr ""
+
+#: inc/functions/extras.php:242
+#: inc/redux-framework/functions/footer-functions.php:318
+#: inc/redux-framework/options/social-options.php:76
+msgid "Dribbble"
+msgstr ""
+
+#: inc/functions/extras.php:248
+#: inc/redux-framework/functions/footer-functions.php:323
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/functions/extras.php:253
+#: inc/redux-framework/functions/footer-functions.php:343
+#: inc/redux-framework/options/social-options.php:112
+msgid "RSS"
+msgstr ""
+
+#: inc/functions/menu.php:148
+#. translators: %s: title of menu item which is invalid
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/functions/menu.php:152
+#. translators: %s: title of menu item in draft status
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/functions/menu.php:164
+msgid "sub item"
+msgstr ""
+
+#: inc/functions/menu.php:179
+msgid "Move up"
+msgstr ""
+
+#: inc/functions/menu.php:192
+msgid "Move down"
+msgstr ""
+
+#: inc/functions/menu.php:194 inc/functions/menu.php:196
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/functions/menu.php:205
+msgid "URL"
+msgstr ""
+
+#: inc/functions/menu.php:212
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/functions/menu.php:218
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/functions/menu.php:225
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/functions/menu.php:230
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/functions/menu.php:236
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/functions/menu.php:242 inc/widgets/class-electro-brands-carousel.php:129
+#: inc/widgets/class-electro-product-list-categories.php:121
+#: inc/widgets/class-electro-products-2-1-2-widget.php:203
+#: inc/widgets/class-electro-products-6-1-widget.php:203
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:268
+#: templates/shop/compare.php:81
+msgid "Description"
+msgstr ""
+
+#: inc/functions/menu.php:244
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/functions/menu.php:254
+msgid "Icon Class"
+msgstr ""
+
+#: inc/functions/menu.php:261
+msgid "Move"
+msgstr ""
+
+#: inc/functions/menu.php:262
+msgid "Up one"
+msgstr ""
+
+#: inc/functions/menu.php:263
+msgid "Down one"
+msgstr ""
+
+#: inc/functions/menu.php:266
+msgid "To the top"
+msgstr ""
+
+#: inc/functions/menu.php:273
+msgid "Original: %s"
+msgstr ""
+
+#: inc/functions/menu.php:286 templates/shop/compare.php:133
+msgid "Remove"
+msgstr ""
+
+#: inc/functions/menu.php:287
+msgid "Cancel"
+msgstr ""
+
+#: inc/functions/setup.php:142
+msgid "Top Bar Left"
+msgstr ""
+
+#: inc/functions/setup.php:143
+msgid "Top Bar Right"
+msgstr ""
+
+#: inc/functions/setup.php:144
+msgid "Primary Nav"
+msgstr ""
+
+#: inc/functions/setup.php:145
+msgid "Navbar Primary"
+msgstr ""
+
+#: inc/functions/setup.php:146
+msgid "Secondary Nav"
+msgstr ""
+
+#: inc/functions/setup.php:147
+msgid "Departments Menu"
+msgstr ""
+
+#: inc/functions/setup.php:148
+msgid "All Departments Menu"
+msgstr ""
+
+#: inc/functions/setup.php:149
+msgid "Blog Menu"
+msgstr ""
+
+#: inc/functions/setup.php:164
+msgid "Home Sidebar"
+msgstr ""
+
+#: inc/functions/setup.php:175
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/functions/setup.php:186
+msgid "Product Filters"
+msgstr ""
+
+#: inc/functions/setup.php:197
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/functions/setup.php:208
+#: inc/redux-framework/options/footer-options.php:43
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/functions/setup.php:219
+#: inc/redux-framework/options/footer-options.php:212
+msgid "Footer Bottom Widgets"
+msgstr ""
+
+#: inc/functions/setup.php:442
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:443
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:444
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:445
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:446
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:447
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:448
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:449
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:451
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/functions/setup.php:454
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/redux-framework/functions/footer-functions.php:328
+#: inc/redux-framework/options/social-options.php:90
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/redux-framework/functions/footer-functions.php:333
+#: inc/redux-framework/options/social-options.php:97
+msgid "Vine"
+msgstr ""
+
+#: inc/redux-framework/functions/footer-functions.php:338
+#: inc/redux-framework/options/social-options.php:104
+msgid "VKontakte"
+msgstr ""
+
+#: inc/redux-framework/functions/header-functions.php:73
+#: inc/redux-framework/options/header-options.php:53
+#: inc/structure/header-v1.php:14
+msgid "All Departments"
+msgstr ""
+
+#: inc/redux-framework/functions/header-functions.php:97
+#: inc/structure/navbar.php:41
+msgid "Shop by Department"
+msgstr ""
+
+#: inc/redux-framework/functions/header-functions.php:109
+#: templates/sections/navbar-search.php:20
+msgid "Search for products"
+msgstr ""
+
+#: inc/redux-framework/functions/header-functions.php:161
+#: inc/redux-framework/options/header-options.php:100
+#: templates/sections/navbar-search.php:21
+msgid "All Categories"
+msgstr ""
+
+#: inc/redux-framework/functions/shop-functions.php:27
+msgid "View Product"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:8
+msgid "Blog"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:12
+msgid "Blog Page View"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:13
+msgid "Select the view for the Blog Listing."
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:18
+#: inc/redux-framework/options/shop-options.php:79
+msgid "Grid"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:19
+#: inc/redux-framework/options/shop-options.php:81
+msgid "List"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:25
+msgid "Blog Page Layout"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:26
+msgid "Select the layout for the Blog Listing."
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:30
+#: inc/redux-framework/options/blog-options.php:52
+#: inc/redux-framework/options/shop-options.php:94
+#: inc/redux-framework/options/shop-options.php:147
+#: inc/woocommerce/class-electro-wc-helper.php:173
+msgid "Full Width"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:31
+#: inc/redux-framework/options/blog-options.php:53
+#: inc/redux-framework/options/shop-options.php:95
+#: inc/redux-framework/options/shop-options.php:148
+#: inc/woocommerce/class-electro-wc-helper.php:174
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:32
+#: inc/redux-framework/options/blog-options.php:54
+#: inc/redux-framework/options/shop-options.php:96
+#: inc/redux-framework/options/shop-options.php:149
+#: inc/woocommerce/class-electro-wc-helper.php:175
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:38
+msgid "Enable Placeholder Image"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:40
+#: inc/redux-framework/options/style-options.php:23
+#: inc/redux-framework/options/typography-options.php:13
+msgid "Yes"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:41
+#: inc/redux-framework/options/style-options.php:24
+#: inc/redux-framework/options/typography-options.php:14
+msgid "No"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:47
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/redux-framework/options/blog-options.php:48
+msgid "Select the layout for the Single Post."
+msgstr ""
+
+#: inc/redux-framework/options/custom-code-options.php:8
+msgid "Custom Code"
+msgstr ""
+
+#: inc/redux-framework/options/custom-code-options.php:12
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/redux-framework/options/custom-code-options.php:13
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:7
+msgid "Footer"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:8
+msgid ""
+"Options related to the footer section. The Footer has : Brands Slider, "
+"Footer Widgets, Footer Newsletter Section, Footer Contact Block, Footer "
+"Bottom Wigets"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:12
+msgid "Brands Slider"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:19
+msgid "Show Brands Slider in Footer ?"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:29
+msgid "No of brands to show in brands slider"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:44
+msgid ""
+"Options related to Footer Widgets. Please add widgets in Appearance > "
+"Widgets > Footer Widgets widget area. If the widget area is empty without "
+"any widgets, the theme loads default widgets."
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:49
+msgid "Show Footer Widgets ?"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:64
+msgid "Footer Newsletter Section"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:65
+msgid "Please use this section to add a subscription form to your mailing list."
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:70
+msgid "Show Footer Newsletter block ?"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:77
+msgid "Newsletter title"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:85
+msgid "Newsletter marketing text"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:93
+msgid "Newsletter signup form"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:96
+msgid "Paste your newsletter signup form or shortcode"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:110
+msgid "Footer Contact Block"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:111
+msgid ""
+"The Footer Contact Block is part of Footer widgets. However it is not "
+"available as a separate widget but are fully customizable with the options "
+"given below."
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:117
+msgid "Show Footer Contact Block"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:124
+msgid "Show Footer logo"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:130
+#: inc/redux-framework/options/header-options.php:19
+msgid "Your Logo"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:131
+msgid "Upload your footer logo image."
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:140
+msgid "Show Footer Call Us section"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:148
+msgid "Call us text"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:149
+#: inc/structure/footer.php:192
+msgid "Got Questions ? Call us 24/7!"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:156
+msgid "Call us icon"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:164
+msgid "Call us number"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:172
+msgid "Show Footer address"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:180
+msgid "Footer address title"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:181
+msgid "Contact Info"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:188
+msgid "Footer address"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:196
+msgid "Show Footer Social Icons"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:197
+msgid ""
+"On enabling footer social icons, please make sure to add all social URLs to "
+"Electro > Social Media"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:213
+msgid ""
+"Options related to Footer Bottom Widgets. Add your widgets to Appearance > "
+"Widgets > Footer Bottom Widgets. If the widget area is empty, it loads the "
+"default widgets."
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:219
+msgid "Show Footer Bottom Widgets ?"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:226
+msgid "Spacing between columns in Footer Widgets"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:233
+msgid "Auto-width footer bottom widget columns ?"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:240
+msgid "Width of each footer bottom widget column"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:256
+msgid "Footer Credit Block"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:257
+msgid "The Footer Credit Block is available bottom of Footer."
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:263
+msgid "Enable Footer Credit Block ?"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:270
+msgid "Footer Credit"
+msgstr ""
+
+#: inc/redux-framework/options/footer-options.php:278
+msgid "Footer Payment Icons"
+msgstr ""
+
+#: inc/redux-framework/options/general-options.php:12
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/redux-framework/options/general-options.php:15
+#: inc/redux-framework/options/general-options.php:24
+#: inc/redux-framework/options/header-options.php:43
+#: inc/redux-framework/options/shop-options.php:22
+#: inc/redux-framework/options/shop-options.php:55
+msgid "Enabled"
+msgstr ""
+
+#: inc/redux-framework/options/general-options.php:16
+#: inc/redux-framework/options/general-options.php:25
+#: inc/redux-framework/options/header-options.php:44
+#: inc/redux-framework/options/shop-options.php:23
+#: inc/redux-framework/options/shop-options.php:56
+msgid "Disabled"
+msgstr ""
+
+#: inc/redux-framework/options/general-options.php:20
+msgid "Register Image Size"
+msgstr ""
+
+#: inc/redux-framework/options/general-options.php:21
+msgid "Enable and regenerate thumbnails to enable theme registered image sizes."
+msgstr ""
+
+#: inc/redux-framework/options/general-options.php:33
+msgid "Load child theme style.css"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:8
+msgid "Header"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:13
+msgid "Show Top Bar"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:20
+msgid "Upload your header logo image."
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:27
+msgid "Select the header style."
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:40
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:52
+msgid "Vertical Menu Title"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:59
+msgid "Vertical Menu Icon"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:66
+msgid "Header v2 \"All Departments\" menu title"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:67
+msgid "Shop By Department"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:73
+msgid "Navbar Search Placeholder"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:74
+msgid "Search for Products"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:80
+msgid "Show Search Categories dropdown"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:87
+msgid "Search Category Dropdown"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:89
+msgid "Include only top level categories"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:90
+msgid "Include all categories"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:99
+msgid "Navbar Search default dropdown text"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:106
+msgid "Show Header Support Block"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:114
+msgid "Header Support Number"
+msgstr ""
+
+#: inc/redux-framework/options/header-options.php:122
+msgid "Header Support Email"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:8
+msgid "Navigation"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:14
+msgid "Primary Navigation"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:15
+msgid "Options for primary navigation of the theme"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:20
+#: inc/redux-framework/options/navigation-options.php:45
+#: inc/redux-framework/options/navigation-options.php:70
+#: inc/redux-framework/options/navigation-options.php:95
+msgid "Dropdown Trigger"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:24
+#: inc/redux-framework/options/navigation-options.php:49
+#: inc/redux-framework/options/navigation-options.php:74
+#: inc/redux-framework/options/navigation-options.php:99
+msgid "Click"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:25
+#: inc/redux-framework/options/navigation-options.php:50
+#: inc/redux-framework/options/navigation-options.php:75
+#: inc/redux-framework/options/navigation-options.php:100
+msgid "Hover"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:39
+msgid "Navbar Primary Navigation"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:40
+msgid "Options for navbar primary navigation of the theme"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:64
+msgid "Topbar Left Navigation"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:65
+msgid "Options for topbar left navigation of the theme"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:89
+msgid "Topbar Right Navigation"
+msgstr ""
+
+#: inc/redux-framework/options/navigation-options.php:90
+msgid "Options for topbar right navigation of the theme"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:8
+msgid "Shop"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:18
+msgid "Catalog Mode"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:19
+msgid "Enable / Disable the Catalog Mode."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:27
+msgid "Brand Attribute"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:28
+msgid "Choose a product attribute that will be used as brands"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:29
+msgid ""
+"Once you choose a brand attribute, you will be able to add brand images to "
+"the attributes"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:36
+msgid "Shop Comparison Page"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:37
+msgid "Choose a page that will be the product compare page for shop."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:43
+msgid "Shop Page Jumbotron"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:44
+msgid "Choose a static block that will be the jumbotron element for shop page"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:52
+msgid "Checkout Sticky Payment"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:66
+msgid "Shop/Catalog Pages"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:75
+msgid "Product archive views"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:76
+msgid "Please drag and arrange the views. Top most view will be the default view"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:80
+msgid "Grid Extended"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:82
+#: inc/woocommerce/functions.php:207
+msgid "List View Small"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:89
+msgid "Shop Page Layout"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:90
+msgid "Select the layout for the Shop Listing."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:101
+msgid "Number of Product Sub-categories Columns"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:102
+msgid ""
+"Drag the slider to set the number of columns for displaying product "
+"sub-categories in shop and catalog pages."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:111
+msgid "Number of Products Columns"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:112
+msgid ""
+"Drag the slider to set the number of columns for displaying products in "
+"shop and catalog pages."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:121
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:122
+msgid ""
+"Drag the slider to set the number of products per page to be listed on the "
+"shop page and catalog pages."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:136
+msgid "Single Product Page"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:142
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:143
+msgid "Select the layout for the Single Product."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:154
+msgid "Single Product Style"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:155
+msgid "Select the style for Full Width layout."
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:160
+#: inc/woocommerce/class-electro-wc-helper.php:186
+msgid "Extended"
+msgstr ""
+
+#: inc/redux-framework/options/shop-options.php:168
+msgid "Enable Related Products"
+msgstr ""
+
+#: inc/redux-framework/options/social-options.php:8
+msgid "Social Media"
+msgstr ""
+
+#: inc/redux-framework/options/social-options.php:10
+msgid "Please type in your complete social network URL"
+msgstr ""
+
+#: inc/redux-framework/options/social-options.php:83
+msgid "Stumble Upon"
+msgstr ""
+
+#: inc/redux-framework/options/social-options.php:113
+msgid "On enabling footer rss icon."
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:7
+msgid "Custom Primary CSS"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:10
+msgid "Styling"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:17
+msgid "General Theme Style Settings"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:22
+msgid "Use a predefined color scheme"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:31
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:32
+msgid "The main color of the site."
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:36
+msgid "Black"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:37
+msgid "Blue"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:38
+msgid "Flat Blue"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:39
+msgid "Gold"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:40
+msgid "Green"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:41
+msgid "Orange"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:42
+msgid "Pink"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:43
+msgid "Red"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:44
+msgid "Yellow"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:45
+msgid "Grey"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:53
+msgid "Custom Primary Color"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:62
+msgid "Custom Primary Text Color"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:71
+msgid "How to include custom color ?"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:74
+msgid "Inline"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:75
+msgid "External File"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:84
+msgid "Custom Primary Color CSS"
+msgstr ""
+
+#: inc/redux-framework/options/style-options.php:85
+msgid ""
+"If you choose \"External File\", then please \"Save Changes\" and then "
+"click on ths link to get the custom color primary CSS: "
+msgstr ""
+
+#: inc/redux-framework/options/typography-options.php:8
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-framework/options/typography-options.php:12
+msgid "Use default font scheme ?"
+msgstr ""
+
+#: inc/redux-framework/options/typography-options.php:21
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/redux-framework/options/typography-options.php:38
+msgid "Content Font Family"
+msgstr ""
+
+#: inc/structure/comments.php:58 inc/structure/comments.php:112
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/structure/comments.php:69 inc/structure/comments.php:123
+msgid "Edit"
+msgstr ""
+
+#: inc/structure/footer.php:61
+msgid "Sign up to Newsletter"
+msgstr ""
+
+#: inc/structure/footer.php:62
+msgid "...and receive <strong>$20 coupon for first shopping</strong>"
+msgstr ""
+
+#: inc/structure/footer.php:101
+msgid "Enter your email address"
+msgstr ""
+
+#: inc/structure/footer.php:103
+msgid "Sign Up"
+msgstr ""
+
+#: inc/structure/footer.php:219
+msgid "Contact info"
+msgstr ""
+
+#: inc/structure/footer.php:220
+msgid "17 Princess Road, London, Greater London NW1 8JR, UK"
+msgstr ""
+
+#: inc/structure/footer.php:329
+msgid "Customer Care"
+msgstr ""
+
+#: inc/structure/footer.php:341
+msgid "&copy; %s - All Rights Reserved"
+msgstr ""
+
+#: inc/structure/header.php:97
+msgid "Unable to find any products that match the currenty query"
+msgstr ""
+
+#: inc/structure/header.php:99
+msgid "Days"
+msgstr ""
+
+#: inc/structure/header.php:100
+msgid "Hours"
+msgstr ""
+
+#: inc/structure/header.php:101
+msgid "Mins"
+msgstr ""
+
+#: inc/structure/header.php:102
+msgid "Secs"
+msgstr ""
+
+#: inc/structure/header.php:195
+msgid "Skip to navigation"
+msgstr ""
+
+#: inc/structure/header.php:196
+msgid "Skip to content"
+msgstr ""
+
+#: inc/structure/homepage-v1.php:26
+msgid ""
+"<span class=\"upto\"><span class=\"prefix\">Upto</span><span "
+"class=\"value\">70</span><span class=\"suffix\"></span></span>"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:18 inc/structure/homepage-v2.php:183
+msgid "Catch Hottest <strong>Deals</strong> in Cameras"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:26
+msgid ""
+"<span class=\"from\"><span class=\"prefix\">From</span><span "
+"class=\"value\"><sup>$</sup>74</span><span class=\"suffix\">99</span></span>"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:72 inc/structure/homepage-v2.php:286
+#: inc/structure/homepage.php:334
+#: inc/widgets/class-electro-onsale-products-carousel.php:31
+msgid "Deals of the week"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:81 inc/structure/homepage-v3.php:136
+msgid "Bestsellers"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:105
+msgid "Clothing"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:191
+msgid ""
+"<span class=\"from\"><span class=\"prefix\">From</span><span "
+"class=\"value\"><sup>$</sup>74</span><span class=\"suffix\">99</span>"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:289 inc/structure/homepage.php:250
+#: inc/structure/homepage.php:338
+#: inc/widgets/class-electro-onsale-product.php:34
+#: inc/widgets/class-electro-onsale-products-carousel.php:34
+msgid "Save"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:304
+msgid "Previous Deal"
+msgstr ""
+
+#: inc/structure/homepage-v2.php:304
+msgid "Next Deal"
+msgstr ""
+
+#: inc/structure/homepage-v3.php:45
+msgid "Catch Hottest <strong>Deals</strong> in Cameras Category"
+msgstr ""
+
+#: inc/structure/homepage-v3.php:53
+msgid ""
+"<span class=\"from\"><span class=\"prefix\">From</span><span "
+"class=\"value\"><sup>$</sup>749</span><span "
+"class=\"suffix\">99</span></span>"
+msgstr ""
+
+#: inc/structure/homepage-v3.php:119 inc/structure/homepage-v3.php:482
+msgid "Music"
+msgstr ""
+
+#: inc/structure/homepage.php:246
+#: inc/widgets/class-electro-onsale-product.php:31
+msgid "<span class=\"highlight\">Special</span> Offer"
+msgstr ""
+
+#: inc/structure/homepage.php:760 templates/homepage/products-6-1-block.php:23
+msgid "Top %s"
+msgstr ""
+
+#: inc/structure/page.php:73 inc/structure/page.php:94
+#: inc/structure/post.php:153 inc/structure/post.php:175
+#: templates/contents/content-link.php:34
+#: templates/contents/content-quote.php:34
+msgid "Pages:"
+msgstr ""
+
+#: inc/structure/post.php:86 inc/structure/post.php:97
+#: templates/widgets/posts-carousel-widget.php:56
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/structure/post.php:131
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/structure/post.php:148 templates/contents/content-link.php:18
+#: templates/contents/content-quote.php:29
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/structure/post.php:335
+msgid "Read More"
+msgstr ""
+
+#: inc/structure/post.php:662
+msgid "Blog Navigation"
+msgstr ""
+
+#: inc/structure/post.php:665
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:27
+msgid "Add ads block widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:28
+msgid "Electro Ads Block"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:107
+#: inc/widgets/class-electro-banner-ad-widget.php:71
+#: inc/widgets/class-electro-brands-carousel.php:105
+#: inc/widgets/class-electro-features-block-widget.php:89
+#: inc/widgets/class-electro-onsale-product.php:88
+#: inc/widgets/class-electro-onsale-products-carousel.php:132
+#: inc/widgets/class-electro-product-catgories-widget.php:179
+#: inc/widgets/class-electro-product-filter-widget.php:88
+#: inc/widgets/class-electro-product-list-categories.php:97
+#: inc/widgets/class-electro-products-2-1-2-widget.php:141
+#: inc/widgets/class-electro-products-6-1-widget.php:141
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:181
+#: inc/widgets/class-electro-products-carousel-tabs.php:117
+#: inc/widgets/class-electro-products-carousel-widget.php:198
+#: inc/widgets/class-electro-products-tabs.php:117
+msgid "No sidebars are available."
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:134
+msgid "Ad Text:"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:138
+msgid "Action Text:"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:142
+msgid "Action Link:"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:146
+msgid "Ad Image:"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:150
+#: inc/widgets/class-electro-banner-ad-widget.php:84
+msgid "Extra Class:"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:153
+#: inc/widgets/class-electro-features-block-widget.php:125
+msgid "Delete"
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:160
+#: inc/widgets/class-electro-features-block-widget.php:132
+msgid "Reached the maximum block. Cannot add more block."
+msgstr ""
+
+#: inc/widgets/class-electro-ads-block-widget.php:161
+#: inc/widgets/class-electro-features-block-widget.php:133
+msgid "Add New Block"
+msgstr ""
+
+#: inc/widgets/class-electro-banner-ad-widget.php:25
+msgid "Add banner ad widget to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-banner-ad-widget.php:26
+msgid "Electro Banner Ad"
+msgstr ""
+
+#: inc/widgets/class-electro-banner-ad-widget.php:76
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/class-electro-banner-ad-widget.php:80
+msgid "Link:"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:25
+msgid "Add products brand carousel widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:26
+msgid "Electro Product Brand Carousel"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:110
+#: inc/widgets/class-electro-onsale-product.php:93
+#: inc/widgets/class-electro-onsale-products-carousel.php:138
+#: inc/widgets/class-electro-product-filter-widget.php:93
+#: inc/widgets/class-electro-product-list-categories.php:102
+#: inc/widgets/class-electro-products-2-1-2-widget.php:146
+#: inc/widgets/class-electro-products-6-1-widget.php:146
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:187
+#: inc/widgets/class-electro-products-carousel-widget.php:216
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:114
+#: inc/widgets/class-electro-onsale-products-carousel.php:157
+#: inc/widgets/class-electro-product-list-categories.php:106
+#: inc/widgets/class-electro-products-2-1-2-widget.php:188
+#: inc/widgets/class-electro-products-6-1-widget.php:188
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:212
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:253
+#: inc/widgets/class-electro-products-carousel-widget.php:228
+msgid "Limit:"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:119
+#: inc/widgets/class-electro-product-list-categories.php:111
+#: inc/widgets/class-electro-products-2-1-2-widget.php:193
+#: inc/widgets/class-electro-products-6-1-widget.php:193
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:258
+msgid "Has no products:"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:122
+#: inc/widgets/class-electro-product-list-categories.php:114
+#: inc/widgets/class-electro-products-2-1-2-widget.php:159
+#: inc/widgets/class-electro-products-2-1-2-widget.php:196
+#: inc/widgets/class-electro-products-6-1-widget.php:159
+#: inc/widgets/class-electro-products-6-1-widget.php:196
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:224
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:261
+msgid "Orderby:"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:124
+#: inc/widgets/class-electro-product-list-categories.php:116
+#: inc/widgets/class-electro-products-2-1-2-widget.php:198
+#: inc/widgets/class-electro-products-6-1-widget.php:198
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:263
+#: templates/shop/single-product-advanced-reviews.php:69
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:125
+#: inc/widgets/class-electro-product-list-categories.php:117
+#: inc/widgets/class-electro-products-2-1-2-widget.php:199
+#: inc/widgets/class-electro-products-6-1-widget.php:199
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:264
+msgid "Slug"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:126
+#: inc/widgets/class-electro-product-list-categories.php:118
+#: inc/widgets/class-electro-products-2-1-2-widget.php:200
+#: inc/widgets/class-electro-products-6-1-widget.php:200
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:265
+msgid "Term Group"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:127
+#: inc/widgets/class-electro-product-list-categories.php:119
+#: inc/widgets/class-electro-products-2-1-2-widget.php:201
+#: inc/widgets/class-electro-products-6-1-widget.php:201
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:266
+msgid "Term ID"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:128
+#: inc/widgets/class-electro-product-list-categories.php:120
+#: inc/widgets/class-electro-products-2-1-2-widget.php:202
+#: inc/widgets/class-electro-products-6-1-widget.php:202
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:267
+msgid "ID"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:133
+#: inc/widgets/class-electro-product-list-categories.php:125
+#: inc/widgets/class-electro-products-2-1-2-widget.php:168
+#: inc/widgets/class-electro-products-2-1-2-widget.php:207
+#: inc/widgets/class-electro-products-6-1-widget.php:168
+#: inc/widgets/class-electro-products-6-1-widget.php:207
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:233
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:272
+msgid "Order:"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:135
+#: inc/widgets/class-electro-product-list-categories.php:127
+#: inc/widgets/class-electro-products-2-1-2-widget.php:170
+#: inc/widgets/class-electro-products-2-1-2-widget.php:209
+#: inc/widgets/class-electro-products-6-1-widget.php:170
+#: inc/widgets/class-electro-products-6-1-widget.php:209
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:235
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:274
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:136
+#: inc/widgets/class-electro-product-list-categories.php:128
+#: inc/widgets/class-electro-products-2-1-2-widget.php:171
+#: inc/widgets/class-electro-products-2-1-2-widget.php:210
+#: inc/widgets/class-electro-products-6-1-widget.php:171
+#: inc/widgets/class-electro-products-6-1-widget.php:210
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:236
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:275
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:140
+#: inc/widgets/class-electro-product-list-categories.php:132
+#: inc/widgets/class-electro-products-2-1-2-widget.php:214
+#: inc/widgets/class-electro-products-6-1-widget.php:214
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:279
+msgid "Include:"
+msgstr ""
+
+#: inc/widgets/class-electro-brands-carousel.php:145
+#: inc/widgets/class-electro-onsale-products-carousel.php:175
+#: inc/widgets/class-electro-products-carousel-widget.php:260
+msgid "Enable Touch Drag:"
+msgstr ""
+
+#: inc/widgets/class-electro-features-block-widget.php:27
+msgid "Add features block widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-features-block-widget.php:28
+msgid "Electro Features Block"
+msgstr ""
+
+#: inc/widgets/class-electro-features-block-widget.php:95
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:195
+#: inc/widgets/class-electro-products-carousel-widget.php:232
+msgid "Columns:"
+msgstr ""
+
+#: inc/widgets/class-electro-features-block-widget.php:118
+msgid "Icon Class:"
+msgstr ""
+
+#: inc/widgets/class-electro-features-block-widget.php:122
+msgid "Feature:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-product.php:25
+msgid "Add onsale product widget to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-product.php:26
+msgid "Electro Onsale Product"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-product.php:98
+#: inc/widgets/class-electro-onsale-products-carousel.php:143
+msgid "Show Savings:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-product.php:101
+#: inc/widgets/class-electro-onsale-products-carousel.php:146
+msgid "Savings in:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-product.php:108
+#: inc/widgets/class-electro-onsale-products-carousel.php:153
+msgid "Savings Text:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-product.php:112
+#: inc/widgets/class-electro-onsale-products-carousel.php:161
+#: inc/widgets/class-electro-products-2-1-2-widget.php:183
+#: inc/widgets/class-electro-products-6-1-widget.php:183
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:248
+#: inc/widgets/class-electro-products-carousel-widget.php:236
+msgid "Product ID:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:25
+msgid "Add onsale product carousel widget to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:26
+msgid "Electro Onsale Product Carousel"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:136
+#: inc/widgets/class-electro-products-2-1-2-widget.php:149
+#: inc/widgets/class-electro-products-6-1-widget.php:149
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:210
+#: inc/widgets/class-electro-products-carousel-widget.php:214
+msgid "Product Options"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:166
+#: inc/widgets/class-electro-products-carousel-widget.php:245
+msgid "Show Custom Navigation:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:168
+#: inc/widgets/class-electro-products-carousel-widget.php:249
+msgid "Carousel Options"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:171
+#: inc/widgets/class-electro-products-carousel-widget.php:256
+msgid "Show Dots:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:178
+#: inc/widgets/class-electro-products-carousel-widget.php:263
+msgid "Nav Next Text:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:182
+#: inc/widgets/class-electro-products-carousel-widget.php:267
+msgid "Nav Prev Text:"
+msgstr ""
+
+#: inc/widgets/class-electro-onsale-products-carousel.php:186
+#: inc/widgets/class-electro-products-carousel-widget.php:271
+msgid "Margin:"
+msgstr ""
+
+#: inc/widgets/class-electro-posts-carousel-widget.php:13
+msgid "Your site&#8217;s most recent Posts Carousel."
+msgstr ""
+
+#: inc/widgets/class-electro-posts-carousel-widget.php:16
+msgid "Electro Posts Carousel"
+msgstr ""
+
+#: inc/widgets/class-electro-posts-carousel-widget.php:55
+#: inc/widgets/class-electro-recent-posts-widget.php:52
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/class-electro-posts-carousel-widget.php:60
+#: inc/widgets/class-electro-recent-posts-widget.php:57
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/class-electro-posts-carousel-widget.php:66
+#: inc/widgets/class-electro-recent-posts-widget.php:63
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/class-electro-posts-carousel-widget.php:71
+msgid "Display post category?"
+msgstr ""
+
+#: inc/widgets/class-electro-product-catgories-widget.php:39
+msgid "A list of product categories."
+msgstr ""
+
+#: inc/widgets/class-electro-product-catgories-widget.php:40
+msgid "Electro Product Categories"
+msgstr ""
+
+#: inc/widgets/class-electro-product-catgories-widget.php:82
+msgid "Show All Categories"
+msgstr ""
+
+#: inc/widgets/class-electro-product-catgories-widget.php:134
+msgid "Browse Categories"
+msgstr ""
+
+#: inc/widgets/class-electro-product-catgories-widget.php:142
+msgid "No product categories exist."
+msgstr ""
+
+#: inc/widgets/class-electro-product-catgories-widget.php:185
+msgid "Show Product Count:"
+msgstr ""
+
+#: inc/widgets/class-electro-product-catgories-widget.php:189
+msgid "Hide Empty:"
+msgstr ""
+
+#: inc/widgets/class-electro-product-filter-widget.php:25
+msgid "Add products filter sidebar widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-product-filter-widget.php:26
+msgid "Electro Product Filter"
+msgstr ""
+
+#: inc/widgets/class-electro-product-filter-widget.php:60
+msgid "+ Show more"
+msgstr ""
+
+#: inc/widgets/class-electro-product-filter-widget.php:61
+msgid "- Show less"
+msgstr ""
+
+#: inc/widgets/class-electro-product-list-categories.php:25
+msgid "Add products list categories to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-product-list-categories.php:26
+msgid "Electro Product List Categories"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:25
+msgid "Add products 2-1-2 block widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:26
+msgid "Electro Product 2-1-2 Block"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:151
+#: inc/widgets/class-electro-products-6-1-widget.php:151
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:216
+msgid "Show:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:153
+#: inc/widgets/class-electro-products-6-1-widget.php:153
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:218
+msgid "All Products"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:155
+#: inc/widgets/class-electro-products-6-1-widget.php:155
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:220
+msgid "On-sale Products"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:161
+#: inc/widgets/class-electro-products-6-1-widget.php:161
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:226
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:162
+#: inc/widgets/class-electro-products-6-1-widget.php:162
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:227
+#: templates/shop/compare.php:59 templates/shop/compare.php:110
+msgid "Price"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:163
+#: inc/widgets/class-electro-products-6-1-widget.php:163
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:228
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:164
+#: inc/widgets/class-electro-products-6-1-widget.php:164
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:229
+msgid "Sales"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:176
+#: inc/widgets/class-electro-products-6-1-widget.php:176
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:241
+msgid "Hide free products:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:180
+#: inc/widgets/class-electro-products-6-1-widget.php:180
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:245
+msgid "Show hidden products:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-2-1-2-widget.php:186
+#: inc/widgets/class-electro-products-6-1-widget.php:186
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:251
+msgid "Category Options"
+msgstr ""
+
+#: inc/widgets/class-electro-products-6-1-widget.php:25
+msgid "Add products 6-1 block widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-products-6-1-widget.php:26
+msgid "Electro Product 6-1 Block"
+msgstr ""
+
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:25
+msgid "Add products cards carousel block widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:26
+msgid "Electro Products Cards Carousel"
+msgstr ""
+
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:185
+msgid "Section Options"
+msgstr ""
+
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:191
+msgid "Rows:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:200
+#: inc/widgets/class-electro-products-carousel-widget.php:252
+msgid "Show Navigation:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:204
+msgid "Show Top Text:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-cards-carousel-widget.php:208
+msgid "Show Categories:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:25
+msgid "Add products tabs carousel widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:26
+msgid "Electro Products Tabs Carousel"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:100
+#: inc/widgets/class-electro-products-carousel-widget.php:171
+#: inc/widgets/class-electro-products-tabs.php:100
+msgid "On Sale Products"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:122
+#: inc/widgets/class-electro-products-tabs.php:122
+msgid "Tab #1 title:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:126
+#: inc/widgets/class-electro-products-carousel-tabs.php:138
+#: inc/widgets/class-electro-products-carousel-tabs.php:150
+#: inc/widgets/class-electro-products-tabs.php:126
+#: inc/widgets/class-electro-products-tabs.php:138
+#: inc/widgets/class-electro-products-tabs.php:150
+msgid "Tab #1 Content, Show:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:134
+#: inc/widgets/class-electro-products-tabs.php:134
+msgid "Tab #2 title:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:146
+#: inc/widgets/class-electro-products-tabs.php:146
+msgid "Tab #3 title:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:158
+#: inc/widgets/class-electro-products-tabs.php:158
+msgid "Enter Product Items:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-tabs.php:162
+#: inc/widgets/class-electro-products-tabs.php:162
+msgid "Enter Product Columns:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:25
+msgid "Add products carousel block widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:26
+msgid "Electro Products Carousel"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:175
+msgid "Products by Ids"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:192
+msgid "Next"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:193
+msgid "Prev"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:206
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:208
+msgid "Type 1"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:209
+msgid "Type 2"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:220
+msgid "Product Shortcode:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-carousel-widget.php:240
+msgid "Category Slug:"
+msgstr ""
+
+#: inc/widgets/class-electro-products-tabs.php:25
+msgid "Add products tabs widgets to your sidebar."
+msgstr ""
+
+#: inc/widgets/class-electro-products-tabs.php:26
+msgid "Electro Products Tabs"
+msgstr ""
+
+#: inc/widgets/class-electro-recent-posts-widget.php:13
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/widgets/class-electro-recent-posts-widget.php:16
+msgid "Electro Recent Posts"
+msgstr ""
+
+#: inc/woocommerce/class-electro-brands.php:48
+#: inc/woocommerce/class-electro-brands.php:125
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/woocommerce/class-electro-brands.php:53
+#: inc/woocommerce/class-electro-brands.php:131
+msgid "Remove image"
+msgstr ""
+
+#: inc/woocommerce/class-electro-brands.php:76
+#: inc/woocommerce/class-electro-brands.php:150
+msgid "Choose an image"
+msgstr ""
+
+#: inc/woocommerce/class-electro-brands.php:78
+#: inc/woocommerce/class-electro-brands.php:152
+msgid "Use image"
+msgstr ""
+
+#: inc/woocommerce/class-electro-brands.php:209
+msgid "Image"
+msgstr ""
+
+#: inc/woocommerce/class-electro-categories.php:57
+#: inc/woocommerce/class-electro-categories.php:84
+#: inc/woocommerce/class-electro-categories.php:138
+msgid "Jumbotron"
+msgstr ""
+
+#: inc/woocommerce/class-electro-categories.php:59
+#: inc/woocommerce/class-electro-categories.php:99
+msgid "Select a Static Block"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:170
+msgid "Product Layout"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:172
+#: inc/woocommerce/class-electro-wc-helper.php:184
+msgid "Default"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:178
+msgid "Select product layout to display on product page."
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:182
+msgid "Product Style"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:189
+msgid "Select product style to display on product page."
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:204
+#: inc/woocommerce/class-electro-wc-helper.php:215
+#: inc/woocommerce/class-electro-woocommerce.php:105
+msgid "Accessories"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:216
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:226
+msgid ""
+"Accessories are products which you recommend to be bought along with this "
+"product."
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:245
+msgid "Specifications"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:258
+msgid "Display Attributes"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:260
+msgid "Display Attributes for variable products"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:266
+msgid "Attributes Title"
+msgstr ""
+
+#: inc/woocommerce/class-electro-wc-helper.php:268
+msgid "Attributes Title for variable products."
+msgstr ""
+
+#: inc/woocommerce/class-electro-woocommerce.php:81
+msgid "Reviews"
+msgstr ""
+
+#: inc/woocommerce/class-electro-woocommerce.php:85
+#: inc/woocommerce/class-electro-woocommerce.php:95
+msgid "Specification"
+msgstr ""
+
+#: inc/woocommerce/functions.php:186
+msgid "Grid View"
+msgstr ""
+
+#: inc/woocommerce/functions.php:193
+msgid "Grid Extended View"
+msgstr ""
+
+#: inc/woocommerce/functions.php:200
+msgid "List View"
+msgstr ""
+
+#: inc/woocommerce/functions.php:275
+msgid "Show %s"
+msgstr ""
+
+#: inc/woocommerce/functions.php:276
+msgid "All"
+msgstr ""
+
+#: inc/woocommerce/functions.php:345
+msgid "%s of %s"
+msgstr ""
+
+#: inc/woocommerce/functions.php:410
+msgid "Onsale Products"
+msgstr ""
+
+#: inc/woocommerce/functions.php:431
+msgid "Find it Fast"
+msgstr ""
+
+#: inc/woocommerce/integrations.php:65
+msgid "Wishlist"
+msgstr ""
+
+#: inc/woocommerce/integrations.php:92 inc/woocommerce/integrations.php:167
+msgid "Compare"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:62
+msgid "%s Categories"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:90
+msgid "People buying in this category"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:174
+msgid "Top rated in this category"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:341
+msgid "Recommended Products"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:550
+msgid "Already Sold:"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:551
+msgid "Available:"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:599
+msgid "Hurry Up! Offer ends in:"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:643
+msgid "Shipping Details"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:655
+msgid "Welcome back! Sign in to your account"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:668
+msgid "Create your very own account"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:680
+msgid "Speed your way through checkout"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:681
+msgid "Track your orders easily"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:682
+msgid "Keep a record of all your purchases"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:687
+msgid "Sign up today and you will be able to :"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:705
+msgid "or"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:766
+msgid "Availablity:"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:780
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:788
+msgid "verified owner"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:805
+#: templates/shop/single-product-advanced-reviews.php:33
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:852
+msgid "SKU: %s"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:873 inc/woocommerce/template-tags.php:988
+msgid "Placeholder"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:1062
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:1069
+msgid "New In Store"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:1083
+msgid "Your order"
+msgstr ""
+
+#: inc/woocommerce/template-tags.php:1113
+msgid "brand"
+msgstr ""
+
+#: templates/contents/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/contents/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/contents/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/contents/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/homepage/home-list-categories.php:37
+msgid "See all"
+msgstr ""
+
+#: templates/homepage/products-2-1-2-block.php:19
+msgid "Products Grid"
+msgstr ""
+
+#: templates/homepage/products-carousel-tabs.php:20
+msgid "Product Carousel Tabs"
+msgstr ""
+
+#: templates/sections/brands-carousel.php:15
+msgid "Brands Carousel"
+msgstr ""
+
+#: templates/sections/navbar-search.php:26
+#: templates/sections/navbar-search.php:54
+msgid "Search for:"
+msgstr ""
+
+#: templates/sections/navbar-search.php:55
+msgid "Search"
+msgstr ""
+
+#: templates/shop/compare.php:28
+msgid "Product"
+msgstr ""
+
+#: templates/shop/compare.php:71
+msgid "Availability"
+msgstr ""
+
+#: templates/shop/compare.php:148
+msgid "No products were added to the compare table"
+msgstr ""
+
+#: templates/shop/compare.php:154
+msgid "Return To Shop"
+msgstr ""
+
+#: templates/shop/single-product/tabs/accessories.php:80
+msgid "This product: "
+msgstr ""
+
+#: templates/shop/single-product/tabs/accessories.php:123
+msgid "%s for %s item(s)"
+msgstr ""
+
+#: templates/shop/single-product/tabs/accessories.php:128
+msgid "Add all to cart"
+msgstr ""
+
+#: templates/shop/single-product/tabs/accessories.php:134
+msgid "Products was successfully added to your cart."
+msgstr ""
+
+#: templates/shop/single-product/tabs/accessories.php:134
+msgid "View Cart"
+msgstr ""
+
+#: templates/shop/single-product/tabs/accessories.php:135
+msgid "No Products selected."
+msgstr ""
+
+#: templates/shop/single-product/tabs/accessories.php:136
+msgid "Product Variation does not selected."
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:24
+msgid "Based on %s review"
+msgid_plural "Based on %s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shop/single-product-advanced-reviews.php:28
+msgid "%s overall"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:64
+msgid "Add a review"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:64
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:65
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:71
+msgid "Email"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:74
+msgid "Add Review"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:80
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:84
+msgid "Your Rating"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:85
+msgid "Rate&hellip;"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:86
+msgid "Perfect"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:87
+msgid "Good"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:88
+msgid "Average"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:89
+msgid "Not that bad"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:90
+msgid "Very Poor"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:94
+msgid "Your Review"
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:103
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: templates/shop/single-product-advanced-reviews.php:128
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Quantity:"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo2.transvelo.in/electro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Electro is a robust and flexible WordPress theme, designed by Transvelo to "
+"help you make the most out of using WooCommerce to power your online store. "
+"The design is well suited for Electronics Store, Vendor based marketplaces, "
+"affiliate websites. It is built and comes bundled with most of the advanced "
+"features available in most popular eCommerce websites like amazon, "
+"flipkart, snapdeal, walmart, alibaba, aliexpress, etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Transvelo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.transvelo.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage v1"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage v2"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage v3"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Centered Fullwidth"
+msgstr ""
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1206
+#: inc/classes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2427
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2473
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/structure/header.php:124
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/structure/header.php:131
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/structure/header.php:362
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/structure/post.php:54
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/structure/post.php:194
+msgctxt "Next post"
+msgid "Next"
+msgstr ""
+
+#: inc/structure/post.php:195
+msgctxt "Previous post"
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:25
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
